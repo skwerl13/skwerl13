@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @rebl76!
+- 👋 Hi, I’m @tornadodobird!
 - 👀 I’m interested in learning everything I can!
 - 🌱 I’m currently learning to not waste my time. 😁
 
-I want to create a community-developed, WebKit-based browser with limited telemetry in the future. I want it to be compatible with Firefox extensions, but have a more fluid/clean UI than both Firefox or Chromium-based browsers. I hope to make it compatible with the Gemini protocol as well. In a few years you might be able to help out!
-
-I also want to create a telemetry-free alternative to Google Fonts so that web developers don't have to rely on Google to give their sites personality.
+I want to create a company that makes Linux laptops, desktops, All-In-Ones and Smartphones with powerful RISC-V processors. I want it to have a macOS Rosetta-like emulator layer to make x86 packages compatible before they are ported for RISC-V architectures. I won't reinvent the wheel - I'll make it better by making a Linux alternative to Big Tech-owned devices that people already know how to use. I hope to make devices that are the same quality as Apple machines, but ones that will get software updates as long as they can run and you have the right to repair and tinker with.
