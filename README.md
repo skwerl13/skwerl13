@@ -10,5 +10,5 @@ Favorite Things:
 - Color Scheme: Can't decide
 - Code Editor: [VSCodium](https://vscodium.com) with the [Newton Next theme](https://github.com/bertolinimarco/vscode-theme-newton-next)
 - Terminal Emulator: [Hyper](https://hyper.is)
-- Font: [Iosevka Extended](https://typeof.net/iosevka)
+- Font: [Iosevka Extended](https://typeof.net/Iosevka/)
 - Open Source Project: Changes every day!
