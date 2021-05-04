@@ -4,11 +4,9 @@
 
 Favorite Things:
 
-- Browser: [Vivaldi](https://vivaldi.com)
+- Browser: [Ungoogled Chromium](https://github.com/eloston/ungoogled-chromium)
 - Distro: [elementaryOS](https://elementary.io)
-- Color: Can't decide, some sort of green
-- Color Scheme: Can't decide
-- Code Editor: [VSCodium](https://vscodium.com) with the [Newton Next theme](https://github.com/bertolinimarco/vscode-theme-newton-next)
-- Terminal Emulator: [Hyper](https://hyper.is)
-- Font: [Iosevka Extended](https://typeof.net/Iosevka/)
+- Color: Green
+- Code Editor: [Atom](https://atom.io)
+- Font: [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) for monospace, [Inter,](https://rsms.me/inter/) [Manrope](https://manropefont.com/) and [Urbanist](https://github.com/coreyhu/Urbanist) for Sans Serif.
 - Open Source Project: Changes every day!
