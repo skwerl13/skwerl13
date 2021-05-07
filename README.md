@@ -4,9 +4,9 @@
 
 Favorite Things:
 
-- Browser: [Ungoogled Chromium](https://github.com/eloston/ungoogled-chromium)
+- Browser: [Brave](https:brave.com)
 - Distro: Since I'm stuck on Mac for now... changes every day!
 - Color: Green
-- Code Editor: [Atom](https://atom.io) when on macOS, [Code](https://github.com/elementary/code) when on elementaryOS
+- Code Editor: [VSCodium](https://vscodium.com)
 - Font: [FiraGO](https://bboxtype.com/typefaces/FiraGO/) and [Fira Code](https://github.com/tonsky/FiraCode)
 - Open Source Project: Changes every day!
