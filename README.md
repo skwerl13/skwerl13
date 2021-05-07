@@ -5,7 +5,7 @@
 Favorite Things:
 
 - Browser: [Brave](https:brave.com)
-- Distro: Since I'm stuck on Mac for now... changes every day!
+- Distro: [elementaryOS](https://elementary.io)
 - Color: Green
 - Code Editor: [VSCodium](https://vscodium.com)
 - Font: [FiraGO](https://bboxtype.com/typefaces/FiraGO/) and [Fira Code](https://github.com/tonsky/FiraCode)
