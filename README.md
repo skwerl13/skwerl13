@@ -5,8 +5,8 @@
 Favorite Things:
 
 - Browser: [Ungoogled Chromium](https://github.com/eloston/ungoogled-chromium)
-- Distro: [Pop! OS](https://pop.system76.com)
+- Distro: Since I'm stuck on Mac for now... changes every day!
 - Color: Green
 - Code Editor: [Atom](https://atom.io) when on macOS, [Code](https://github.com/elementary/code) when on elementaryOS
-- Font: [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
+- Font: [FiraGO](https://bboxtype.com/typefaces/FiraGO/) and [Fira Code](https://github.com/tonsky/FiraCode)
 - Open Source Project: Changes every day!
