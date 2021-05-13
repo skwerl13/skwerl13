@@ -9,5 +9,5 @@ Favorite Things:
 - Color: Green
 - Code Editor: [Visual Studio Code (with telemetry turned off)](https://code.visualstudio.com/)
 - Terminal Emulator (macOS): [Hyper](https://hyper.is/)
-- Font: [FiraGO](https://bboxtype.com/specimine/FiraGO) and [Fira Code](https://github.com/tonsky/FiraCode/)
+- Font: [FiraGO](https://bboxtype.com/specimine/FiraGO) and [Iosevka](https://typeof.net/Iosevka)
 - Open Source Project: Changes every day!
