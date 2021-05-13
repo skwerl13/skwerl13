@@ -5,7 +5,7 @@
 Favorite Things:
 
 - Browser: [Brave](https:brave.com)
-- Distro: [elementaryOS](https://elementary.io)
+- Distro: [Pop!_OS](https://pop.system76.com)
 - Color: Green
 - Code Editor: [VSCodium](https://vscodium.com)
 - Font: [Inter](https://rsms.me/inter) and [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
