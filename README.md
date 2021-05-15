@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tornadodobird!
 - 👀 I’m interested in learning everything I can!
-- 🌱 I’m currently learning [Rust](rust-lang.org)!
+- 🌱 I’m currently learning Web Development with [The Odin Project!](https://theodinproject.com)
 
 Favorite Things:
 
