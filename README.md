@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tornadodobird!
 - 👀 I’m interested in learning everything I can!
-- 🌱 I’m currently learning `time management.` 😁
+- 🌱 I’m currently learning [Rust](rust-lang.org)!
 
 Favorite Things:
 
