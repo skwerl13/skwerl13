@@ -2,6 +2,8 @@
 - 👀 I’m interested in learning everything I can!
 - 🌱 I’m currently learning Web Development with [The Odin Project!](https://theodinproject.com)
 
+Right now my GitHub profile is for storing and forking projects I'm experimenting with.
+
 Favorite Things:
 
 - Browser: [Brave](https:brave.com/)
