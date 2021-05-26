@@ -7,9 +7,8 @@ Right now my GitHub profile is for storing and forking projects I'm experimentin
 Favorite Things:
 
 - Browser: [Brave](https:brave.com/)
-- Distro: [elementaryOS](https://elementary.io)
+- Distro: [Pop!_OS](https://pop.system76.com)
 - Color: Green
-- Code Editor: [Visual Studio Code](https://code.visualstudio.com/) with the [Newton Next Theme](https://github.com/bertolinimarco/vscode-theme-newton-next)
-- Terminal Emulator: [Alacritty](https://github.com/alacritty/alacritty/)
-- Font: [Inter](https://rsms.me/) and [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
-- Open Source Project: Changes every day!
+- Code Editor: [Visual Studio Code](https://code.visualstudio.com/) with the [Vitesse Theme](https://github.com/antfu/vscode-theme-vitesse)
+- Font: [Inter,](https://rsms.me/) [FiraGO](https://bboxtype.com/typefaces/FiraGO/#!layout=specimen) and [Fira Code](https://github.com/tonsky/firacode)
+- Open Source Project: It changes every day! If Pop!_OS doesn't implement touchpad gestures soon, then I will use [elementaryOS](https://elementary.io)
