@@ -10,4 +10,4 @@ Favorite Things:
 - Terminal Emulator: [Kitty](https://github.com/kovidgoyal/kitty)
 - Color: Green
 - Code Editor: [Atom](https://atom.io)
-- Font: [Inter](https://rsms.em/inter) and [IBM Plex Mono](https://ibm.com/plex)
+- Font: [Inter](https://rsms.em/inter) and [Jetbrains Mono](https://jetbrains.com/lp/mono)
