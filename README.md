@@ -9,5 +9,5 @@ Favorite Things:
 - Distro: [Pop!_OS](https://pop.system76.com)
 - Terminal Emulator: [Kitty](https://github.com/kovidgoyal/kitty)
 - Color: Green
-- Code Editor: [Sublime Text](https://sublimetext.com) with the [Nord Theme](https://nordtheme.com)
-- Font: [Inter](https://rsms.em/inter) and [Input Mono](https://input.djr.com/)
+- Code Editor: [Atom](https://atom.io)
+- Font: [Inter](https://rsms.em/inter) and [IBM Plex Mono](https://ibm.com/plex)
