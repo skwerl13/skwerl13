@@ -1,13 +1,11 @@
 - 👋 Hi, I’m @tornadodobird!
 - 👀 I’m interested in learning everything I can!
-- 🌱 I’m currently learning Web Development with [The Odin Project!](https://theodinproject.com)
+- 🌱 I'm not sure I'll ever be a full-time web developer, but I'm learning the basics at [The Odin Project!](https://theodinproject.com)
 
 Right now my GitHub profile is for storing and forking projects I'm experimenting with.
 
 Favorite Things:
 
-- Distro: [Pop!_OS](https://pop.system76.com)
-- Terminal Emulator: [Kitty](https://github.com/kovidgoyal/kitty)
 - Color: Green
-- Code Editor: [Atom](https://atom.io)
-- Font: [Inter](https://rsms.em/inter) and [Jetbrains Mono](https://jetbrains.com/lp/mono)
+- Code Editor: [Visual Studio Code](code.visualstudio.com)
+- Font: [Inter](https://rsms.em/inter) and [Cascadia Code](https://github.com/microsoft/cascadia-code)
